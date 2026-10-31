@@ -2,6 +2,9 @@
 
 QuantDesk scans the whole Indian stock market every morning, researches the strongest candidates in depth, decides what to buy and sell, and trades on its own. It manages every position with a resting stop-loss. Paper trading and real trading run **the exact same code**; the only difference is which broker object the agent is handed.
 
+I am learning and updating this code very often, here is the baseline working code, you can feel free to build up things on this repository. 
+Also, if you want to connect it with Groww or Zerodha, feel free to read the docs. Save your time with all the API connections and integrations, use your ideas here.
+
 The plan: run it on paper with ₹50,000 for six months, judge it against NIFTY 50 on the Evaluation page, and only then connect Groww.
 
 > Personal use only. Models are probabilistic and can lose money. Nothing here is investment advice.
